@@ -1,8 +1,8 @@
 # Publications
-Here is a list of some of the public articles related to my work. Note most of the work from my career is not public.
+Here is a list of some public articles related to my work.
 
 ## Amazon
-* Created the Amazon's flagship Climate Pledge friendly Program.  https://www.amazon.com/Climate-Pledge-Friendly/
+* Created Amazon's flagship Climate Pledge friendly Program.  https://www.amazon.com/Climate-Pledge-Friendly/
 * Built the Seller Central feature that utilizes AI to identify improvements on Brand Owned Listings.  https://sellercentral.amazon.com.br/seller-forums/discussions/t/ec4ea5a4-8653-4f0b-8f24-597e1ea364a1
 * Helped Launch the Amazon Pharmacy Program: https://pharmacy.amazon.com
 ## Google
